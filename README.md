@@ -1,5 +1,9 @@
 WEDE POE_PART_TWO
 
+Yolanda Maholwana
+ST10507150
+WEDE5020
+
 Feedback from Part 1: Navigation was fixed to be consistent across all 5 pages, contact page expanded to include 2 distinct locations with full address/phone/email/hours, semantic tags corrected (header, nav, main, section, article, footer), and all images now have alt attributes and documented sources in content ZIP.
 ## Part 2 - CSS Styling & Responsive Design (2026-09-18)
 
@@ -29,3 +33,4 @@ Mobile iPhone 12 390x844: Single column, hamburger not needed as nav stacks vert
  References Part 2
 - www.w3schools.com. (n.d.). CSS Comments. [online] Available at: https://www.w3schools.com/css/css_comments.asp [Accessed 18 Sept. 2026].
 - W3Schools (2019). CSS Media Queries. [online] W3schools.com. Available at: https://www.w3schools.com/css/css3_mediaqueries.asp [Accessed 18 Sept. 2026].
+W3Schools (2019). CSS Image Gallery. [online] W3schools.com. Available at: https://www.w3schools.com/css/css_image_gallery.asp [Accessed 18 Sept. 2026].
