@@ -34,7 +34,7 @@ Katz-Hair-do/
 ├── css/
 │   └── style.css
 │
-└── screenshots/ (for POE evidence)
+└── screenshots/ (for evidence)
     ├── index.png
     ├── about.png
     ├── services.png
