@@ -1,7 +1,6 @@
 WEDE POE_PART_TWO
 
 Yolanda Maholwana
-ST10507150
 WEDE5020
 
 Project Description
