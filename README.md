@@ -4,31 +4,63 @@ Yolanda Maholwana
 ST10507150
 WEDE5020
 
-Feedback from Part 1: Navigation was fixed to be consistent across all 5 pages, contact page expanded to include 2 distinct locations with full address/phone/email/hours, semantic tags corrected (header, nav, main, section, article, footer), and all images now have alt attributes and documented sources in content ZIP.
-## Part 2 - CSS Styling & Responsive Design (2026-09-18)
+Project Description
+Katz Hair-Do is a luxury hair salon based in Cape Town. This website was created to provide an online presence for the salon, allowing clients to view services, gallery, and book appointments. This is Part 2 of the project where CSS styling was added to improve visual design and user experience.
 
- Changes Made
-Created external style.css with CSS reset, base styles, typography scale, Flexbox nav and Grid for services/locations
-Applied color scheme: #111111 black, #D4AF37 gold, #FFF0F5 soft pink - for luxury hair salon feel
-Added pseudo-classes :hover, :focus, :active for all interactive elements
-Implemented responsive design
+Features Implemented (Part 2)
+- Responsive Navigation Bar (Black with Gold Logo)
+- Hero Section with Call-to-Action (Book Appointment)
+- Services Section with Pricing (R250 - R550)
+- Styled About, Gallery and Contact Pages
+- External CSS file linked to all pages
+- Responsive layout for mobile and desktop
 
- Breakpoints Used
-Desktop: >768px (3-column services, 2-column locations)
-Tablet: max-width 768px (2-column services, 1-column locations, nav stacks)
-Mobile: max-width 480px (single column all sections, vertical nav, font-size 90%)
+Technologies Used
+- HTML5
+- CSS3 (External Stylesheet)
+- VS Code
+- Live Server Extension
+- GitHub for Version Control
 
- Relative Units
-rem for font-sizes, em for padding/margins, % for widths (main 90%, images 100%)
+Folder Structure
+Katz-Hair-do/
+│
+├── index.html
+├── about.html
+├── services.html
+├── gallery.html
+├── contact.html
+├── README.md
+│
+├── css/
+│   └── style.css
+│
+└── screenshots/ (for POE evidence)
+    ├── index.png
+    ├── about.png
+    ├── services.png
+    └── gallery.png
 
- Testing - DevTools
-Tested in Chrome DevTools:
-Desktop 1920x1080: Multi-column layout works
-Tablet iPad 768x1024: Grid switches to 2 columns
-Mobile iPhone 12 390x844: Single column, hamburger not needed as nav stacks vertically
+## How To Run The Website
+1. Download or clone the repository from GitHub
+2. Open the folder `Katz-Hair-do` in VS Code
+3. Install Live Server extension
+4. Right-click `index.html` -> Open with Live Server
+5. Website will open at http://127.0.0.1:5500
 
- Screenshots Evidence
- /screenshots/desktop-home.png
+Pages
+1. **index.html** - Homepage with hero and services overview
+2. **about.html** - About the salon and mission
+3. **services.html** - Full list of services and prices
+4. **gallery.html** - Hairstyle gallery
+5. **contact.html** - Contact form and location
+
+Changelog
+Part 1: Created basic HTML structure for 5 pages, no styling.
+Part 2: Added external CSS (css/style.css), fixed navigation styling, added colours (black & gold), styled hero section, cards and buttons, linked all pages correctly.
+
+Screenshots
+Screenshots of the live website are included in the POE Word document as evidence.
 
  References Part 2
 - www.w3schools.com. (n.d.). CSS Comments. [online] Available at: https://www.w3schools.com/css/css_comments.asp [Accessed 18 Sept. 2026].
